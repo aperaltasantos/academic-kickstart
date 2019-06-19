@@ -24,6 +24,7 @@ interests:
     - Health Policy
     - Global Health
     - Health Systems
+    - Machibe Learning
 
 education:
   courses:
