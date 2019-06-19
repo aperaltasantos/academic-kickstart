@@ -14,8 +14,8 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Washington
+  url: "https://www.washington.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My career and interest have been moving towards a global health focus, primarily studying the impact of health policies.
